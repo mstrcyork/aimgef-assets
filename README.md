@@ -29,3 +29,6 @@ The MIDI files can be found in the `stimuli` folder where each file is named wit
 |rh|Rhythm rating|
 |highlight|The optionally selected highlight sections|
 |comment|The optional comment|
+
+## Classical string quartets
+`CSQ` folder contains 71 string quartets collected from [KernScores](http://kern.ccarh.org/), metadata for each of them is listed in `index.json`.
